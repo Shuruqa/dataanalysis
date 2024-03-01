@@ -1,5 +1,3 @@
-#Final Project
-
 # Let's install below packages, if not please install them first.
 install.packages('tidyverse')
 install.packages('knitr')
